@@ -22,7 +22,7 @@
   {
     "name": "Events Hub",
     "desc": "A central platform listing upcoming hackathons and cultural events from various colleges, fostering connections and campus promotion.",
-    "image": "webchat",
+    "image": "webuiclones",
     "category": "web",
     "links": {
       "view": "https://github.com/Nirmalkumawat003/Ehub_",
@@ -32,7 +32,7 @@
   {
     "name": "PermitEase - College Permission App",
     "desc": "App for managing internal permissions in colleges, allowing digital submission, tracking, and management of requests for efficient review.",
-    "image": "saas",
+    "image": "tsfbank",
     "category": "app",
     "links": {
       "view": "https://github.com/Nirmalkumawat003/Permitease",

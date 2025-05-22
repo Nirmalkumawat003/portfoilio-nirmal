@@ -12,7 +12,7 @@
   {
     "name": "ML Seat Allotment",
     "desc": "Automates and optimizes the seat allotment process using machine learning for fair and efficient allocation in academic institutions.",
-    "image": "bootstrapportfolio",
+    "image": "hulu",
     "category": "ml",
     "links": {
       "view": "https://github.com/Nirmalkumawat003/ml-seat-allotment",
@@ -22,7 +22,7 @@
   {
     "name": "Events Hub",
     "desc": "A central platform listing upcoming hackathons and cultural events from various colleges, fostering connections and campus promotion.",
-    "image": "bootstrapportfolio",
+    "image": "webchat",
     "category": "web",
     "links": {
       "view": "https://github.com/Nirmalkumawat003/Ehub_",
@@ -32,7 +32,7 @@
   {
     "name": "PermitEase - College Permission App",
     "desc": "App for managing internal permissions in colleges, allowing digital submission, tracking, and management of requests for efficient review.",
-    "image": "bootstrapportfolio",
+    "image": "saas",
     "category": "app",
     "links": {
       "view": "https://github.com/Nirmalkumawat003/Permitease",
@@ -42,7 +42,7 @@
   {
     "name": "Fast Cart - Smart Billing Interface",
     "desc": "Developed a Flutter app that saves time by self-billing goods. It integrates UPI services to provide quick payments and reduces the need for human intervention, hence increasing shopping efficiency.",
-    "image": "bootstrapportfolio",
+    "image": "flipkartmern",
     "category": "flutter",
     "links": {
       "view": "https://github.com/Nirmalkumawat003/Fastcart-nirmal",

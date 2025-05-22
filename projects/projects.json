@@ -1,5 +1,45 @@
 [
   {
+    "name": "AI-Text-Summarizer",
+    "desc": "Summarizes long text into concise summaries using advanced AI models. Helps users quickly understand large documents or articles.",
+    "image": "bootstrapportfolio",
+    "category": "ai",
+    "links": {
+      "view": "https://github.com/Nirmalkumawat003/text-summarizer",
+      "code": "https://github.com/Nirmalkumawat003/text-summarizer"
+    }
+  },
+  {
+    "name": "ML Seat Allotment",
+    "desc": "Automates and optimizes the seat allotment process using machine learning for fair and efficient allocation in academic institutions.",
+    "image": "bootstrapportfolio",
+    "category": "ml",
+    "links": {
+      "view": "https://github.com/Nirmalkumawat003/ml-seat-allotment",
+      "code": "https://github.com/Nirmalkumawat003/ml-seat-allotment"
+    }
+  },
+  {
+    "name": "Events Hub",
+    "desc": "A central platform listing upcoming hackathons and cultural events from various colleges, fostering connections and campus promotion.",
+    "image": "bootstrapportfolio",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/Nirmalkumawat003/Ehub_",
+      "code": "https://github.com/Nirmalkumawat003/Ehub_"
+    }
+  },
+  {
+    "name": "PermitEase - College Permission App",
+    "desc": "App for managing internal permissions in colleges, allowing digital submission, tracking, and management of requests for efficient review.",
+    "image": "bootstrapportfolio",
+    "category": "app",
+    "links": {
+      "view": "https://github.com/Nirmalkumawat003/Permitease",
+      "code": "https://github.com/Nirmalkumawat003/Permitease"
+    }
+  },
+  {
     "name": "Fast Cart - Smart Billing Interface",
     "desc": "Developed a Flutter app that saves time by self-billing goods. It integrates UPI services to provide quick payments and reduces the need for human intervention, hence increasing shopping efficiency.",
     "image": "bootstrapportfolio",
@@ -7,46 +47,6 @@
     "links": {
       "view": "https://github.com/Nirmalkumawat003/Fastcart-nirmal",
       "code": "https://github.com/Nirmalkumawat003/Fastcart-nirmal"
-    }
-  },
-  {
-    "name": "Events Hub",
-    "desc": "A single, central website that lists all of the upcoming hackathons and cultural events being held by various colleges, builds connections between them, and aids in campus promotion.",
-    "image": "bootstrapportfolio",
-    "category": "web",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "PermitEase - Streamlined College Permissions",
-    "desc": "An app that streamlines permission management in colleges or offices, enabling users to submit, track, and manage requests digitally, while providing higher-ups with intuitive tools for efficient review and response.",
-    "image": "bootstrapportfolio",
-    "category": "app",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Project 4",
-    "desc": "Description for Project 4. This project showcases advanced features and innovative solutions.",
-    "image": "bootstrapportfolio",
-    "category": "web",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Project 5",
-    "desc": "Description for Project 5. This project focuses on user-friendly design and efficient functionality.",
-    "image": "bootstrapportfolio",
-    "category": "app",
-    "links": {
-      "view": "#",
-      "code": "#"
     }
   }
 ]
